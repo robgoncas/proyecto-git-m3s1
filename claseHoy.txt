@@ -1,0 +1,10 @@
+
+- Crear function para obtener los datos del formulario
+- Crear Objeto Formulario
+- Crear function Mostrar Datos Formulario con alert
+- Crear una funcion para verificar si cumple o 
+no el tipo de dato (SI ES TEXTO O NUMERO O FECHA)
+
+
+
+
